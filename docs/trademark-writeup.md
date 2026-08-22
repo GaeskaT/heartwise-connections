@@ -194,8 +194,10 @@ brand, if one exists or is planned.*
   icons; exportable at higher resolution).
 - **Product documentation:** this repo's `README.md` and `docs/` (backend scope,
   crisis-safety framework) evidence a substantial, genuine service.
-- Screenshots of key screens (including the welcome-screen specimen showing the
-  composite mark, colours and tagline together) can be produced on request.
+- **Screenshots of key screens:** in `docs/screenshots/` (welcome, home, matches,
+  match profile, messages, chat, wellness tools, profile) — showing the composite
+  mark, colours and tagline in use across the working product. The people and
+  conversations shown are sample/demo data, not real users.
 
 ## 10. Recommended next steps (in order)
 
