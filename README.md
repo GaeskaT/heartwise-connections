@@ -13,7 +13,7 @@ app (no backend, no build step). All state is saved in the browser's
 
 ## 📱 Live demo
 
-**[https://gaeskat.github.io/heart2heart-kenya/](https://gaeskat.github.io/heart2heart-kenya/)**
+**[https://gaeskat.github.io/heartwise-connections/](https://gaeskat.github.io/heartwise-connections/)**
 
 Works on any phone or desktop browser — no sign-in needed. Best experienced at
 phone width. Auto-updates on every push to `main`. Reset anytime from

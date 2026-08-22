@@ -187,9 +187,7 @@ brand, if one exists or is planned.*
 
 ## 9. Supporting evidence available
 
-- **Live product / demo:** https://gaeskat.github.io/heart2heart-kenya/
-  *(the GitHub Pages URL still uses the original repository slug; the product it
-  serves is fully branded "HeartWise Connections").*
+- **Live product / demo:** https://gaeskat.github.io/heartwise-connections/
 - **Source repository** (development history, dates, and the documented rebrand):
   the project's GitHub repo.
 - **Logo & icon assets:** in `icons/` (`logo-hero.png` full lockup, app/maskable
