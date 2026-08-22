@@ -1,4 +1,4 @@
-# Heart2Heart Kenya — Trademark Brief
+# HeartWise Connections — Trademark Brief
 
 > **Not legal advice.** This is a supporting brief to hand to a registered
 > trademark agent / IP attorney (in Kenya, filings go through **KIPI** — the
@@ -6,6 +6,14 @@
 > and the evidence, so your attorney can prepare and file. Two steps in
 > particular **must** be done by a professional before filing: a **clearance /
 > availability search**, and **confirming the classes**. See §6 and §10.
+
+> **Name note.** This product was previously developed under the working name
+> **“Heart2Heart Kenya”** and has since been **rebranded to “HeartWise
+> Connections”** — the name now in use across the app, icons, manifest and live
+> demo. Treat **HeartWise Connections** as the mark to clear and file. Some
+> historical repository files and commit history still reference the old name;
+> keep those dated records, as they help evidence first use and continuous
+> development.
 
 Prepared: ______________   Applicant: ______________________________________
 
@@ -18,53 +26,83 @@ which to file, and whether as word marks, a device/logo mark, or a composite):
 
 | # | Mark | Type | Notes |
 |---|---|---|---|
-| A | **Heart2Heart Kenya** | Word mark | Primary brand name. "Kenya" is geographic and will likely be disclaimed (see §6). |
-| B | **Heart2Heart** | Word mark | The distinctive core. Strongest if filed with the logo (§6). |
-| C | Teal heart **logo / device** | Figurative mark | See §3. The composite (logo + wordmark) is typically the most defensible. |
-| D | **"Healing First. Healthy Relationships Next."** | Slogan | Secondary tagline mark (optional). |
-| E | **"Heal. Grow. Connect. Commit."** | Slogan | Alternative tagline (optional). |
+| A | **HeartWise Connections** | Word mark | Primary brand name. |
+| B | **HeartWise** | Word mark | The distinctive core word. Strongest if filed with the logo (§6). |
+| C | Gold heart **logo / device** | Figurative mark | See §3. The stand-alone symbol. |
+| D | **HeartWise wordmark + gold heart** | Composite | The lockup — typically the most defensible. |
+| E | **"Healing First. Healthy Relationships Next."** | Slogan | Secondary tagline mark (optional). |
+| F | **"Heal. Grow. Connect. Commit."** | Slogan | Alternative/earlier tagline (optional). |
 
-**Recommended priority:** the **composite mark** (Heart2Heart wordmark + teal
-heart logo) usually gives the best protection for a name built from common
-words, plus the standalone wordmark. Confirm with your attorney.
+**Recommended priority:** the **composite mark** (HeartWise wordmark + gold heart
+logo) usually gives the best protection, plus the standalone **HeartWise**
+wordmark. Confirm with your attorney.
 
 ## 2. Meaning & origin of the mark
 
-- **"Heart2Heart"** evokes an honest, intimate conversation ("a heart-to-heart"),
-  chosen to signal emotional openness and sincerity — the opposite of casual,
-  swipe-based dating. The stylised numeral **"2"** (for "to") is a deliberate,
-  distinctive spelling that aids brand recognition and registrability.
-- **"Kenya"** anchors the service to its market and community.
+- **"HeartWise"** joins **heart** (emotion, love, care) with **wise / wisdom**
+  (guidance, maturity, good judgement) — the idea of making *wise choices of the
+  heart*. It signals a counsellor-guided, intentional approach, the opposite of
+  casual, swipe-based dating.
+- **"Connections"** names what the platform builds: real, healthy relationships.
 - The brand promise: relationships built **after** emotional healing —
-  counsellor-guided, intentional, and safe.
+  counsellor-guided, intentional, and safe. This order is stated in the tagline
+  and pictured in the logo (§3).
 
 ## 3. The logo / device mark
 
-- A **white heart on a deep-teal gradient** (from `#12857f` to `#0a4b47`),
-  presented as a rounded-square app icon and a `💚` motif.
-- Brand colours: teal `#0f6f6a` (primary), coral `#e2674f` (accent), gold
-  `#e0a44b`. Neutral warm greys.
-- Assets already exist in the product (`icons/` — 192/512/maskable PNGs; the
-  in-app brandmark). Your attorney will want a clean, high-resolution logo file;
-  these can be exported/regenerated on request.
-- **Recommendation:** commission a finalised, professionally drawn logo before
-  filing the device mark, so the registered image matches long-term use.
+- The logo is a **single heart rendered in metallic gold**. The heart is not a
+  solid shape: it is **formed by two curved, ribbon-like halves that sweep up and
+  inward** — reading at once as two people leaning toward each other and as a
+  pair of cupped, protective hands. Where the two halves meet, a **winding
+  S-shaped path (or river)** runs from the base up into the cleft of the heart,
+  carved out in the negative space. The gold is finished as a soft gradient
+  (deeper gold in the shadows lifting to a bright, luminous gold on the
+  highlights), giving it a warm, polished, jewellery-like quality.
+- Beneath the symbol sits the wordmark: **"HeartWise"** in an elegant
+  high-contrast gold **serif** (one word, internal capital "W"), and below it
+  **"Connections"** in a smaller gold **italic script**, flanked by two short
+  horizontal rules. The symbol can stand alone (app icon) or lock up with the
+  wordmark (welcome screen / hero).
+
+### Brand colours (from the product's design tokens and logo artwork)
+
+| Role | Colour | Hex |
+|---|---|---|
+| Primary (UI, buttons, theme) | Teal | `#0f6f6a` |
+| Gradient base / dark | Deep teal | `#0a4b47` |
+| Gradient top / highlight | Bright teal | `#12857f` |
+| Logo & wordmark (metallic) | HeartWise gold | `#d5b733` → `#e3da59` → `#f1e871` (gradient) |
+| Accent, alerts, warmth | Coral | `#e2674f` |
+| Secondary accent | Amber / gold | `#e0a44b` |
+| Primary text | Ink | `#1f2a2a` |
+| Secondary text | Ink soft | `#4a5a58` |
+| App background (cool / warm) | Neutral | `#f4f7f5` / `#faf7f2` |
+
+The signature look is the **gold logo on a radial teal gradient** (bright teal
+`#12857f` easing to deep teal `#0a4b47`).
+
+- Assets already exist in the product (`icons/` — `logo-hero.png` full lockup;
+  192/512/maskable app-icon PNGs; favicon). Your attorney will want a clean,
+  high-resolution logo file; these can be exported/regenerated on request.
+- **Recommendation:** commission a finalised, professionally drawn **vector**
+  logo before filing the device mark, so the registered image matches long-term
+  use.
 
 ## 4. Description of the goods & services (the heart of the filing)
 
-**Heart2Heart Kenya is a counsellor-guided relationship platform** — a mobile
-and web application — for adults who have completed relationship or individual
-counselling and are emotionally ready to build healthy relationships leading to
-committed dating, engagement and marriage. It deliberately prioritises emotional
-maturity, safety, verification and shared values over casual, high-volume
-matching.
+**HeartWise Connections is a counsellor-guided relationship platform** — a mobile
+and web application — for adults who are emotionally ready to build healthy
+relationships leading to committed dating, engagement and marriage. It
+deliberately prioritises emotional maturity, safety, verification and shared
+values over casual, high-volume matching. Registration is open and free;
+counselling is offered and encouraged throughout the journey but is not a
+requirement to join or to be matched.
 
 The service comprises:
 
-- **Membership by counsellor invitation/approval** and identity verification of
-  members ("verified members").
-- A **Relationship Readiness** assessment producing a private **Wellness Score**,
-  and a community **code of conduct**.
+- **Open registration** and identity verification of members ("verified
+  members"), with a community **code of conduct**.
+- A **Relationship Readiness** assessment producing a private **Wellness Score**.
 - **Curated, compatibility-based matchmaking** (values, intentions, faith,
   family goals, location, personality), releasing a small number of matches
   rather than an endless feed.
@@ -79,8 +117,8 @@ The service comprises:
   confidential Q&A, webinars, and moderated support/community groups.
 - **Events** (mixers, seminars, premarital workshops, retreats, meet-up days)
   and a **Marriage Preparation** pathway.
-- **Premium subscriptions** (with M-Pesa / card payment) unlocking deeper
-  counselling and coaching.
+- **Membership subscriptions** (with M-Pesa / card payment) across weekly and
+  monthly tiers unlocking deeper counselling and coaching.
 
 *(Your attorney will translate this into the precise legal wording for each
 class.)*
@@ -104,22 +142,23 @@ Filing across multiple classes costs more; your attorney will help prioritise
 
 Read this before filing; it shapes strategy.
 
-- **"Heart2Heart"** is built from common, somewhat **suggestive** words (a
-  "heart-to-heart" is an intimate talk) for a relationships product. Suggestive
-  marks are registrable, but the phrase is **likely already used and possibly
-  registered by others** in various fields — so a **clearance search is
-  essential** (§10). Expect the term to be moderately "crowded".
-- **"Kenya"** is geographic and will likely need to be **disclaimed** (no
-  exclusive rights in the word alone).
-- **Strength comes from the composite:** the stylised **"Heart2Heart"** spelling
-  + the **teal heart logo** + the specific **counsellor-guided** service
-  positioning. That combination is far more defensible than the words alone.
+- **"HeartWise"** is a **coined, one-word combination** (heart + wise). Coined /
+  invented marks are generally **stronger and more registrable** than descriptive
+  or common phrases — a meaningful improvement in distinctiveness over the former
+  "Heart2Heart" name. It is still **suggestive** of the emotional-guidance theme,
+  so a **clearance search remains essential** (§10): "HeartWise" and "Heart Wise"
+  may be used or registered by others in various fields.
+- **"Connections"** is a common, somewhat descriptive word for a
+  relationships/social product and, on its own, is weak; its value is as part of
+  the whole name and lockup.
+- **Strength comes from the composite:** the coined **"HeartWise"** word + the
+  distinctive **gold heart-with-path logo** + the specific **counsellor-guided**
+  service positioning. That combination is the most defensible.
 - The **taglines** may be separately registrable if distinctive and used
   consistently as brand identifiers.
 
-**Practical implication:** prioritise the **logo + composite** and run a proper
-search first. Your attorney may also advise a slightly more distinctive
-presentation if the word mark alone proves crowded.
+**Practical implication:** prioritise the **HeartWise wordmark + composite** and
+run a proper search first.
 
 ## 7. Status & first use
 
@@ -127,7 +166,8 @@ presentation if the word mark alone proves crowded.
   commercially launched at scale.
 - **Filing basis:** likely **intent-to-use** (or actual use if you begin
   offering the service to real members before filing) — your attorney will
-  advise. Keep dated records of first public use.
+  advise. Keep dated records of first public use (including the rebrand date to
+  "HeartWise Connections").
 - **Legal/operational readiness noted for context:** DPA/ToS counsel engaged;
   three registered counsellors onboarded; a crisis-safety framework is in place
   (pending clinician sign-off). *These support a genuine commercial intent.*
@@ -148,20 +188,27 @@ brand, if one exists or is planned.*
 ## 9. Supporting evidence available
 
 - **Live product / demo:** https://gaeskat.github.io/heart2heart-kenya/
-- **Source repository** (development history, dates): the project's GitHub repo.
-- **Logo & icon assets:** in `icons/` (exportable at higher resolution).
+  *(the GitHub Pages URL still uses the original repository slug; the product it
+  serves is fully branded "HeartWise Connections").*
+- **Source repository** (development history, dates, and the documented rebrand):
+  the project's GitHub repo.
+- **Logo & icon assets:** in `icons/` (`logo-hero.png` full lockup, app/maskable
+  icons; exportable at higher resolution).
 - **Product documentation:** this repo's `README.md` and `docs/` (backend scope,
   crisis-safety framework) evidence a substantial, genuine service.
-- Screenshots of key screens can be produced on request.
+- Screenshots of key screens (including the welcome-screen specimen showing the
+  composite mark, colours and tagline together) can be produced on request.
 
 ## 10. Recommended next steps (in order)
 
 1. **Engage a registered IP attorney / KIPI agent.** Kenyan filings are made
    through KIPI; an agent is standard.
-2. **Clearance / availability search** — for "Heart2Heart" and the logo across
-   your intended classes, in Kenya (KIPI), and (if going regional/international)
-   **ARIPO** and the **WIPO Madrid** database. **Do not file before this.**
-3. **Finalise the logo** with a designer so the registered image matches use.
+2. **Clearance / availability search** — for "HeartWise" / "HeartWise
+   Connections" and the logo across your intended classes, in Kenya (KIPI), and
+   (if going regional/international) **ARIPO** and the **WIPO Madrid** database.
+   **Do not file before this.**
+3. **Finalise the logo** (vector) with a designer so the registered image matches
+   use.
 4. **Decide the mark family & classes** with the attorney (likely composite +
    wordmark; classes 45/42/44, possibly 41/9).
 5. **Choose the territory strategy:** Kenya first (KIPI); consider **ARIPO** for
@@ -174,11 +221,12 @@ brand, if one exists or is planned.*
 
 ## 11. Quick-reference summary (for the attorney)
 
-- **Marks:** "Heart2Heart Kenya" / "Heart2Heart" (word) + teal-heart logo
+- **Marks:** "HeartWise Connections" / "HeartWise" (word) + gold-heart logo
   (device) + optional slogans.
 - **Nature:** counsellor-guided relationship / dating / wellness platform (app +
-  web) for post-counselling adults in Kenya.
+  web) for adults ready for a healthy relationship.
 - **Likely classes:** 45, 42, 44 (± 41, 9).
-- **Key risks:** crowded/suggestive core term; "Kenya" disclaimer likely.
+- **Key risks:** clear "HeartWise"/"Heart Wise" in the relevant classes;
+  "Connections" is weak alone.
 - **Strategy:** composite-first; clearance search before filing; Kenya (KIPI)
   now, ARIPO/Madrid if scaling.
