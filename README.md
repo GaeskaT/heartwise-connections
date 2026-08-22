@@ -1,9 +1,9 @@
-# Heart2Heart Kenya 💚
+# HeartWise Connections 💚
 
 > *Healing first. Healthy relationships next.*
 
 A counsellor-guided relationship app for healthy dating and marriage. Unlike a
-conventional dating app, Heart2Heart is for adults who are emotionally ready to
+conventional dating app, HeartWise Connections is for adults who are emotionally ready to
 build intentional, respectful relationships. Counselling is offered and encouraged
 throughout the journey, but is **not** a requirement to join or to be matched.
 
